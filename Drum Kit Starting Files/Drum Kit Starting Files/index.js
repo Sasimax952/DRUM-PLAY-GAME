@@ -21,11 +21,11 @@ switch(key) {
         var audio = new Audio('sounds/tom-3.mp3');
         audio.play();
         break;
-        case "d":
+    case "d":
         var audio = new Audio('sounds/tom-4.mp3');
         audio.play();
         break;       
-        case "j":
+    case "j":
         var audio = new Audio('sounds/snare.mp3');
         audio.play();
         break;
